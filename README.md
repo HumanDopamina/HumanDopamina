@@ -1,41 +1,26 @@
-````md
-# HumanDopamina
+# Hey there! 👋
 
-```bash
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⠀⠀⠀⠀⠀⠀    HumanDopamina@github
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠛⠳⢿⡀⠀⠀⠀⠀⠀    ──────────────────────
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣖⠤⣀⠀⠀⠀⠀⠀⠀⣀⣀⣼⡇⢼⣾⡮⢇⠀⠀⠀⠀⠀    role="Cybernetic Engineer"
-⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⣞⣷⡨⣗⣤⣶⢶⣻⡿⣽⡿⣿⣧⣽⣿⢇⠼⠀⠀⠀⠀⠀   focus="Full-Stack Development"
-⠀⠀⠀⠀⠀⠀⠀⠀⠸⡏⢻⣿⡆⣽⣿⣟⡯⣟⣿⡷⣯⡝⣟⣯⠻⣯⣿⠀⠀⠀⠀⠀   languages="JavaScript · TypeScript · Python · SQL · C"
-⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⣾⡟⣿⣿⢻⡞⢻⡟⣿⣿⠁⠚⢻⣮⠙⡎⠛⡄⠀⠀⠀⠀   frameworks="Django · DRF · React · Next.js · Angular"
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⡿⠳⡙⡾⠿⡌⠹⡽⣏⡇⢸⣯⣼⠧⢀⡤⠜⡄⠀⠀⠀   databases="PostgreSQL · MySQL"
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⢀⢉⢉⠶⢶⣾⣦⣫⠴⣞⣾⡟⠁⡠⠈⠉⠉⠱⠀⠀⠀   tools="Git · Docker"
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⢡⠊⠉⠁⠉⠦⠍⣽⣏⣟⡳⢾⡹⡌⠀⠀⠀⠀⡱⠀⠀⠀    os="Windows 11 · Linux"
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡌⠀⠀⠀⠀⠀⠀⡗⡚⣺⣿⣾⣍⠻⠀⠄⠀⢠⡇⠀⠀⠀     learning="Next.js"
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣞⢄⡀⠀⠀⠀⢀⡉⠀⢻⣿⣿⣟⠀⠀⠀⡦⠋⡄⠀⠀⠀     interests="Web Development · Linux · Cybersecurity · Music"
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⢎⠳⠤⣀⠀⠀⠑⠠⠜⠛⠟⠋⠀⠀⠈⠢⠀⣧⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠧⣊⠿⡤⣀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢁⣿⠀⠀⠀     linkedin="linkedin.com/in/leonelhernandez07"
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠂⠹⠛⠀⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠍⠂⠀⠀⠀     email="leonelher0307@gmail.com"
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢳⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⣰⢫⠘⣄⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡗⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢰⢺⣻⢠⠞⠚⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⡀⠀
-⠀⠀⠀⠀⠀⠀⠀⡇⢀⣿⡀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⠀
-⠀⠀⠀⠀⠀⠀⢰⢽⢸⡟⡧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀
-⠀⠀⠀⠀⠀⠀⣞⣾⢙⣙⣳⡠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡇⠀
-⠀⠀⠀⠀⠀⠀⡿⣜⡄⢶⡹⣻⢆⠀⠀⠀⠀⠀⠀⠉⠀⡀⠀⠀⠀⠀⠀⠀⣰⣫⠃⠀
-⠀⠀⠀⠀⠀⠀⡧⡇⡎⣞⢷⡹⣯⣆⠀⠀⠀⠀⠀⠀⠐⠁⠀⢨⠀⠀⠀⢀⢳⡇⠀⠀
-⠀⠀⠀⠀⠀⢠⣗⢣⠟⡸⢛⢷⠧⠁⡆⠀⣰⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠧⠍⡇⠀⠀
-⠀⠀⠀⠀⠀⣼⣾⣿⣾⡥⠸⠊⠔⠀⠇⢸⠁⠂⠀⠀⠀⢀⠀⣸⠀⡆⠀⠈⢣⡇⠀⠀
-⠀⠀⠀⠀⢰⣟⡿⢿⡿⣿⡀⠀⠀⠀⠆⣸⡀⠠⡆⠀⡘⠈⠠⡇⠀⠀⠀⠀⢸⠁⠀⠀
-⠀⠀⠀⢠⡞⣴⣾⣷⡳⠉⢁⠀⢠⠔⠀⣿⠇⢇⠃⡜⡇⢀⣼⣿⠀⠀⠀⠀⡞⠀⠀⠀
-⠀⠀⠀⣮⢷⡹⣿⣿⠅⠀⢘⡄⡲⡀⠀⣧⣾⣎⣾⣴⣴⣶⡿⠃⡆⠀⠀⠀⡇⠀⠀⠀
-⠀⠀⠘⣯⢷⡹⣞⡱⠈⠠⠈⣇⠀⠱⠈⡻⡚⡏⣙⣿⡿⠁⠀⠀⢸⠀⡐⠀⡇⠀⠀⠀
-⠀⠀⡴⣯⢧⣳⡍⢤⠃⠀⠀⢯⢀⠇⢠⣹⢶⣿⣿⡟⠃⠀⠀⠀⠀⣷⠣⠀⢗⠀⠀⠀
-⠀⣼⣿⣼⣿⣧⡛⡼⠀⡠⠃⣸⢼⠛⡀⣟⣸⣿⣿⠇⠠⠘⠀⠀⠀⡟⡀⡇⢸⠀⠀⠀
-⢸⣾⡿⠿⡿⠷⠟⠁⢁⢀⢠⡇⢌⡢⢅⡷⣿⣟⠃⠀⠀⠀⠀⠀⣠⣗⠸⢛⢸⡄⠀⠀
-⠈⣼⣿⣋⣷⣶⡾⣿⣧⡈⡇⠷⢎⡜⡣⢹⡹⡒⣂⣔⠥⣀⡀⢀⢿⣇⣆⠈⠀⣿⣦⠀
-⠀⠻⠿⣿⣿⢻⢉⡇⢹⡿⠤⢸⣇⣕⣡⣽⠓⠛⠋⠉⠉⠀⠀⠀⠀⠈⢯⡶⡿⠿⡥⡀
-⠀⠀⠀⠀⠉⠉⠛⠷⠾⠃⠀⢨⣼⠁⣇⣹⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠿⣿⣄⣽⡼
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢛⠒⠛⠒⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
-````
+I'm **Leonel**, a cybernetic engineer focused on **full-stack development**.
+
+I enjoy building web applications, learning by creating, and exploring how software, systems, and technology connect.
+
+My main stack includes **JavaScript, TypeScript, Python, SQL, C, Django, DRF, React, Next.js, Angular, PostgreSQL, MySQL, Git, and Docker**.
+
+I'm currently learning **Next.js** and continuing to grow as a full-stack developer.
+
+My interests include **web development, Linux, cybersecurity, and music**.
+
+---
+
+## 📊 Quick Facts
+
+- **Role:** Cybernetic Engineer
+- **Focus:** Full-Stack Development
+- **OS:** Windows 11 · Linux
+- **Learning:** Next.js
+- **Contact:** [leonelher0307@gmail.com](mailto:leonelher0307@gmail.com)
+- **LinkedIn:** [linkedin.com/in/leonelhernandez07](https://linkedin.com/in/leonelhernandez07)
+
+---
+
+🚀 **Building and learning, one project at a time.**
