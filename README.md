@@ -1,10 +1,10 @@
 # Hey there! 👋
 
-I'm **Leonel**, a cybernetic engineer focused on **full-stack development**.
+I'm **Dopamina**, a cybernetic engineer focused on **full-stack development**.
 
 I enjoy building web applications, learning by creating, and exploring how software, systems, and technology connect.
 
-My main stack includes **JavaScript, TypeScript, Python, SQL, C, Django, DRF, React, Next.js, Angular, PostgreSQL, MySQL, Git, and Docker**.
+My main stack includes **JavaScript, TypeScript, Python, SQL, C, Django, DRF, React, PostgreSQL, MySQL, Git, and Docker**.
 
 I'm currently learning **Next.js** and continuing to grow as a full-stack developer.
 
